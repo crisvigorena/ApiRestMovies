@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_error_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAllMovies
+id btnPopular
+id btnTopRated
+id btnUpcoming
+id cvMovie
+id ivImage
+id llButtons
+id main
+id rvMovies
+id tvCategory
+id tvInfo
+layout activity_main
+layout item_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ExampleApiRestTMDB
+style Theme.ExampleApiRestTMDB
+xml backup_rules
+xml data_extraction_rules
